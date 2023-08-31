@@ -14,9 +14,9 @@
  *************************************************************/
 
 /* Fill-in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID           "TMPL6wfmL15FO"
-#define BLYNK_TEMPLATE_NAME         "Sistem Monitoring dan Otomatisasi"
-#define BLYNK_AUTH_TOKEN            "w2Y06r2mSuZ1QJoeziplAaGh5qe5xbn3"
+#define BLYNK_TEMPLATE_ID           "..."
+#define BLYNK_TEMPLATE_NAME         "..."
+#define BLYNK_AUTH_TOKEN            "..."
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
@@ -30,8 +30,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Galaxy A50s";
-char pass[] = "12345678";
+char ssid[] = "...";
+char pass[] = "...";
 
 //Deklarasi Variabel Pin 
 const int TEMPERATURE_PIN = 27; // Sensor Suhu DS18B20
